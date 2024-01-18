@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikanth1996
 - 👀 I’m interested in New Projects
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open SOurce Projects
 - 📫 How to reach me ...
 
